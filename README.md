@@ -7,7 +7,7 @@
         <h2>なにものか？</h2>
         <p>
             図を眺めているだけで答えの正しさを確信してしまうものを集めてみる。<br>
-            → <a href="">こちら</a>
+            → <a href="https://boyoyon.github.io/Speaks_for_itself/data/speaks_for_itself.html">こちら</a>
         </p>
     </body>
 </html>
